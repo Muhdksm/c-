@@ -6,7 +6,7 @@ A mini terminal dungeon-crawler RPG written in C++.
 
 - Turn-based combat with attack / defend choices
 - 5 dungeon floors with scaling enemies
-- Random item drops (health potions, weapons, armour)
+- Random item drops (health potions, weapons, armor)
 - Difficulty selection (Easy / Normal / Hard)
 - Epic final boss fight
 

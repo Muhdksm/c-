@@ -79,7 +79,7 @@ struct MonsterTemplate {
 static const std::vector<MonsterTemplate> MONSTERS = {
     {"Slime",    "  (o_o)  ", 18,  4, 0},
     {"Goblin",   "  /\\(^)/\\", 28,  7, 1},
-    {"Skeleton", "  &skull; [T_T]", 35,  9, 2},
+    {"Skeleton", "  [X_X]  ", 35,  9, 2},
     {"Orc",      "  [>#<]  ", 50, 12, 3},
     {"Vampire",  "  >=<>   ", 45, 14, 4},
 };
